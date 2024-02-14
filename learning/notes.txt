@@ -1,0 +1,19 @@
+css:
+border: 
+*border-style:inset
+inset-define a 3d ridged border. the effect depends on the border-color value.
+*border-width: 5px 20px 4px 35px;
+*border-width:top right bottom left
+*border-radius:20px(is used to add rounded borders to an elements)
+border sided :
+border-top-style:dotted;
+border-bottom-style:dotted;
+border-left-style:solid;
+border-right-style:dotted;
+
+shortand:
+border-style: dotted solid;
+
+
+
+
